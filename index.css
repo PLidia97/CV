@@ -1,0 +1,31 @@
+.backgroundRedLight {
+  color: black;
+  background-color: rgb(189, 96, 96);
+}
+
+#fed {
+  color: black;
+  background-color: rgb(226, 100, 100);
+}
+
+#poza {
+  width: 200px;
+}
+
+table,
+th,
+td {
+  border: 1px solid antiquewhite;
+  border-collapse: collapse;
+}
+th,
+td {
+  background-color: rgba(245, 174, 127, 0.993);
+}
+
+h3 {
+  color: brown;
+}
+.poison {
+  height: ;
+}
